@@ -14,4 +14,5 @@ Para replicar el proyecto visto en el curso, se debe hacer lo siguiente:
 2) Crear un proyecto nuevo en Android Studio
 3) Sustituir los archivos activity_main.xml y MainActivity.kt con los que estan en este repositorio
 4) Agregar las imagenes en la carmeta res/drawable
-5) Compilar la aplicacion e instalarla en el tel
+5) Compilar la aplicacion e instalarla en el telefono inteligente
+6) Efectuar las adecuaciones que considere necesarias
