@@ -19,3 +19,4 @@ Para replicar el proyecto visto en el curso, se debe hacer lo siguiente:
 # Curso_Desarollo_Aplicaciones_Moviles_2025
 # Curso de Programacion Movil 2023 (actualizacion 2025)
 # Curso de Programacion Movil 2023 (actualizacion 2025)
+# Curso de Programacion Movil 2023 (actualizacion 2025)
